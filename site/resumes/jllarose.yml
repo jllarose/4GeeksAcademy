@@ -1,0 +1,72 @@
+---
+template: online-cv
+skin: berry
+basic_info:
+  first_name: Jasmine
+  last_name: LaRose
+  motto: I like creating and laughing
+  focus: Growing and Learning
+  summary: >
+    Aspiring Data Scientist with a background in Economics and proficiency
+    in various coding languages.
+
+    As a recent graduate with a BA in Economics from UC San Diego, I am seeking opportunities to leverage
+
+    my analytical skills and technical expertise in a dynamic data-driven environment.
+  avatar: https://randomuser.me/api/portraits/women/24.jpg
+  github: jllarose
+  languages:
+    - idiom: English
+      level: Native
+    - idiom: Mandarin
+      level: Beginner
+    - idiom: Cantonese
+      level: Beginner
+  interests:
+    - item: House Plants
+    - item: Baking
+    - item: Video Games
+education:
+  - degree: BA in Economics
+    university: University of California San Diego
+    university_logo: https://logos-world.net/wp-content/uploads/2022/12/UCSD-Symbol.png
+    time: 2019 - 2024
+    details: |
+      Studied how individuals, businesses, and governments allocate their
+      resources to meet their needs. Focus on microeconomics, 
+      macroeconomics, and applied econometrics.
+experiences:
+  - role: Behavioral Health Technician
+    time: 2024 - Present
+    company: Butterfly Effects
+    company_logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7lDbTbEHDpks95gogBCewjT90Ets5I8yoag&s
+    details: |
+      As a Behavioral Health Technician, I collected and recorded accurate
+      data on client progress during sessions in order to utilize data to
+      ensure treatment effectiveness. I also administered one-on-one behavioral
+      therapy to children with Autism Spectrum Disorder (ASD) and other 
+      developmental disabilities, folliwing individidualized treatment plans.
+  - role: Customer Experience Manager
+    time: 2023 - 2024
+    company: Michaels
+    company_logo: https://1000logos.net/wp-content/uploads/2020/09/Michaels-logo.jpg
+    details: |
+      As a Customer Experience Manager, I ensured high-quality custoemr service
+      and led increased rates of credit card sign-ups. I also fulfilled online 
+      pick-up and shipping orders, as well as handled customer service calls.
+projects:
+  intro: |
+    Building and expanding my portfolio.
+  assignments:
+    - title: Breast cancer tissue image diagnosis
+      tagline: Image diagnosis
+skills:
+  toolset:
+    - name: Python
+      level: Proficient
+    - name: SQL
+      level: Beginner
+    - name: Java
+      level: Proficient
+    - name: R
+      level: Proficient
